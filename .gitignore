@@ -1,0 +1,3 @@
+.idea/*
+ocr_service/__pycache__/*
+db.sqlite3
